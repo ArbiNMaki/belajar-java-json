@@ -1,13 +1,10 @@
 {
-  "address": {
-    "street": "Jalan Peltu Sujono",
-    "city": "Malang",
-    "country": "Indonesia"
-  },
-  "hobbies": [
-    "Coding",
-    "Gaming"
-  ],
-  "id": "1",
-  "name": "Arbi"
+  "id" : "1",
+  "name" : "Arbi",
+  "hobbies" : [ "Coding", "Gaming" ],
+  "address" : {
+    "street" : "Jalan Peltu Sujono",
+    "city" : null,
+    "country" : "Indonesia"
+  }
 }
