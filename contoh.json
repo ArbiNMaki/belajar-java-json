@@ -1,0 +1,12 @@
+{
+  "address": {
+    "street": "Jalan Peltu Sujono",
+    "country": "Indonesia",
+    "city": "Malang"
+  },
+  "age": 27,
+  "firstName": "Arbi",
+  "lastName": "Wijaya",
+  "married": false,
+  "middleName": "Dwi"
+}
