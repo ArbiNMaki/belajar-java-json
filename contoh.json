@@ -1,12 +1,13 @@
 {
   "address": {
     "street": "Jalan Peltu Sujono",
-    "country": "Indonesia",
-    "city": "Malang"
+    "city": "Malang",
+    "country": "Indonesia"
   },
-  "age": 27,
-  "firstName": "Arbi",
-  "lastName": "Wijaya",
-  "married": false,
-  "middleName": "Dwi"
+  "hobbies": [
+    "Coding",
+    "Gaming"
+  ],
+  "id": "1",
+  "name": "Arbi"
 }
